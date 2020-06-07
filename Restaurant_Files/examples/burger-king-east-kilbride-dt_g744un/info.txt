@@ -1,0 +1,40 @@
+Restaurant Name: Burger King East Kilbride D/T
+Phone Number: 02039126648
+Description: Every day, more than 11 million guests visit BURGER KING® restaurants around the world. And they do so because these restaurants are known for serving high-quality, great-tasting and affordable food. Founded in 1954, they are the second largest fast food hamburger chain in the world. The original HOME OF THE WHOPPER®, commitment to premium ingredients, signature recipes and family-friendly dining experiences is what has defined the brand for more than 50 successful years.
+Street: Kingsgate Retail Park
+City: East Kilbride
+Postcode: G744UN
+
+Opening Times: 
+Monday
+07:00 - 23:00
+Tuesday
+07:00 - 23:00
+Wednesday
+07:00 - 23:00
+Thursday
+07:00 - 23:00
+Friday
+07:00 - 23:00
+Saturday
+07:00 - 23:00
+Sunday
+07:00 - 23:00
+
+Delivery Areas: 
+G32 Shettleston
+G40 Glasgow
+G42 Glasgow
+G44 Cathcart
+G45 Castlemilk Arcade
+G5 Glasgow
+G71 Uddingston
+G72 Cambuslang
+G73 Rutherglen
+G74 East Kilbride
+G75 Glasgow
+G76 Clarkston
+ML1 Motherwell
+ML3 Hamilton
+ML4 Bellshill
+ML5 Coatbridge

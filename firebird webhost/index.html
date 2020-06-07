@@ -1,0 +1,65 @@
+
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<style>
+#header{
+	text-align: center;
+	font-size: 32;
+	padding-bottom: 5%;
+}
+table{
+    width: 100%;
+    border-collapse:collapse;
+	padding-bottom: 10px;
+}
+td, tr{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+td{
+	width: 50%;
+}
+.pull-right{
+	text-align: right;
+	padding-bottom: 25px;
+}
+.centre{
+	text-align: center;
+}
+p{
+	font-size: 14px;
+	color: gray;
+}
+.font{
+	font-family: 'Nunito', sans-serif;
+}
+#outer {
+	width: 100%;
+	text-align: center;
+}
+input[type=submit] {
+	font-size: 18px;
+}
+.textbox {
+	width: 450px;
+}
+</style>
+</head>
+<body>
+<div id="header" class="font">Firebird</div>
+<div id="body" class="font">
+	<form action="run_firebird.php" method="post">
+		<table>
+			<tr><td class="pull-right"><table><tr>Restaurant URL:</tr><tr><p>e.g. https://www.just-eat.co.uk/restaurants-raja-new-paisley</p></tr></table></td><td valign="top"><input class="textbox" type="text" name="url"></td></tr>
+			<tr><td class="pull-right"><table><tr>Your Email</tr><tr><p>e.g. goeatdirect@gmail.com</p></tr></table></td><td valign="top"><input class="textbox" type="text" name="email"></td></tr>
+			<tr><td class="pull-right"><table><tr>The Password for GED.firebird@gmail.com</tr><tr><p>This can be found in 1Password</p></tr></table></td><td valign="top"><input class="textbox" type="password" name="password"></td></tr>
+		</table>
+		<br><br>
+		<div id="outer">
+			<input class="font" type="submit" value="Submit">
+		</div>
+	</form>
+</div>
+</body>
+</html> 
